@@ -1,5 +1,5 @@
-# Year - Academy - Name of the course
+# 2024 - Frontend Masters - Complete Intro to SQL and PostgreSQL
 
-Notes for the course "xxx" taught by xxx at xxx.
+Notes for the course _[Complete Intro to SQL and PostgreSQL](https://frontendmasters.com/courses/sql/)_ taught by Brian Holt at Frontend Masters.
 
-Month Year.
+October 2024.
