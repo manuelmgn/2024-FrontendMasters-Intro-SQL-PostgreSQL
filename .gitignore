@@ -1,4 +1,6 @@
 .*
+.gitignore
+.config/*
 
 *.rsls
 *.rslsc
@@ -6,4 +8,4 @@
 
 arquivoTemporario
 
-config/*
+__pycache__/*
